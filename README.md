@@ -1,10 +1,10 @@
-# OpenManus Setup Guide
+# OpenManus Easy Setup Guide
 
-This guide will help you install and set up OpenManus on Windows using WSL (Windows Subsystem for Linux).
+This guide will help you easily configure, install and launch OpenManus on Windows using WSL (Windows Subsystem for Linux).
 
 ## Prerequisites
 
-- Windows 10/11 with PowerShell access
+- Windows 11 with PowerShell access
 - Administrator privileges
 
 ## Step 1: Install WSL
